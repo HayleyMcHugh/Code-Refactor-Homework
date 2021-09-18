@@ -8,4 +8,4 @@ Week 1 homework where we reviewed and corrected a given code so that it followed
 https://hayleymchugh.github.io/Code-Refactor-Homework/
 
 # Credits
-    <p>-Nicholas Golston</p>
+-Nicholas Golston
